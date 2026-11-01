@@ -1,0 +1,4 @@
+google-genai>=1.0.0
+mem0ai>=2.0.0
+streamlit>=1.40.0
+python-dotenv>=1.0.0
